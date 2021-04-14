@@ -3,7 +3,7 @@
 ## Setup
 
 The code requires only a rudimentary pytorch/tensorboard installation; training is (so far) only done on the CPU, so no CUDA setup is required.
-For instance, the following command installs the basic necessities.
+For instance, the following command installs the basic necessities
 
     pip install torch tensorboard
 
